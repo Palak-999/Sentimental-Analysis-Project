@@ -1,4 +1,4 @@
-💬 Sentiment Analysis Project
+## 💬 Sentiment Analysis Project
 
 `https://img.shields.io/badge/build-passing-brightgreen`  
 `https://img.shields.io/badge/python-3.10-blue`  
@@ -6,7 +6,7 @@
 
 
 
-📌 Project Overview
+## 📌 Project Overview
 This project demonstrates **Sentiment Analysis** using Natural Language Processing (NLP) techniques.  
 The goal is to classify text data (such as reviews, tweets, or comments) into categories like **positive, negative, or neutral** sentiments.  
 
@@ -23,16 +23,16 @@ It was developed in **Google Colab** and showcases how machine learning can be a
 
 
 
-🔑 Concepts Explained
+## 🔑 Concepts Explained
 
-🔹 Sentiment Analysis
+## 🔹 Sentiment Analysis
 Sentiment Analysis is a technique in NLP that determines whether a piece of text expresses **positive, negative, or neutral** emotions.  
 It is widely used in:
 - Customer feedback analysis  
 - Social media monitoring  
 - Product review classification  
 
-🔹 Machine Learning Workflow
+## 🔹 Machine Learning Workflow
 1. **Data Collection** → Import text dataset (reviews, tweets, etc.)  
 2. **Preprocessing** → Clean and prepare text (remove noise, tokenize, etc.)  
 3. **Feature Extraction** → Convert text into numerical features (TF-IDF, Bag of Words, embeddings)  
@@ -40,7 +40,7 @@ It is widely used in:
 5. **Evaluation** → Measure accuracy, precision, recall, and F1-score  
 
 
-📂 Project Structure
+## 📂 Project Structure
 ```plaintext
 Sentimental-Analysis-Project
 │
@@ -49,7 +49,7 @@ Sentimental-Analysis-Project
 ```
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 | Technology        | Purpose                                |
 |-------------------|----------------------------------------|
@@ -60,7 +60,7 @@ Sentimental-Analysis-Project
 | **Machine Learning** | Model training & evaluation         |
 
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Palak-999/Sentimental-Analysis-Project.git
@@ -75,7 +75,7 @@ jupyter notebook Project_3.ipynb
 Or simply open the notebook in **Google Colab** for quick execution.
 
 
-🌟 Benefits
+## 🌟 Benefits
 - Hands-on experience with **NLP and ML**  
 - Understanding of **text preprocessing techniques**  
 - Practical knowledge of **sentiment classification**  
@@ -86,7 +86,7 @@ Or simply open the notebook in **Google Colab** for quick execution.
   - Software Developer  
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 - 📦 Add more datasets for diverse sentiment analysis  
 - 🧪 Experiment with deep learning models (LSTMs, Transformers)  
 - ☁️ Deploy as a web app using Flask/Django  
