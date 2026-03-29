@@ -2,6 +2,10 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
+![Accuracy](https://img.shields.io/badge/accuracy-88%25-success)
+![Model](https://img.shields.io/badge/model-Logistic%20Regression-purple)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF-blueviolet)
+
 
 ## 📌 Project Overview
 This project demonstrates **Sentiment Analysis** using Natural Language Processing (NLP) techniques.  
